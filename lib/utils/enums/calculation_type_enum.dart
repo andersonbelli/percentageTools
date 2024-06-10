@@ -1,0 +1,1 @@
+enum CalculationType { amount, percentage }
